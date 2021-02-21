@@ -11,6 +11,8 @@ https://github.com/rust-crdt/rust-crdt - rust implementation
 https://github.com/automerge/automerge - another very very popular Js
 implementation
 
+https://github.com/Horusiath/crdt-examples
+
 ## Collaborative Editor Implementations, including the ones that use CRDT
 
 https://github.com/geut/caracara
@@ -40,3 +42,4 @@ https://github.com/ipfs/notes/issues/40#issuecomment-194899389
 https://github.com/search?q=crdt
 https://github.com/topics/crdt
 https://github.com/topics/crdt?l=javascript
+https://github.com/search?utf8=%E2%9C%93&q=crdt%2Dexamples
