@@ -32,4 +32,22 @@ https://en.wikipedia.org/wiki/Lamport_timestamp
 Vector Clock
 https://en.wikipedia.org/wiki/Vector_clock
 
+---
 
+https://duckduckgo.com/?q=crdt+grow+only+counter+research+paper&t=ffab&ia=web
+
+http://db.cs.berkeley.edu/cs286/papers/crdt-tr2011.pdf
+
+https://blog.acolyer.org/2015/03/18/a-comprehensive-study-of-convergent-and-commutative-replicated-data-types/
+
+https://blog.acolyer.org/2015/08/17/lasp-a-language-for-distributed-coordination-free-programming/
+
+https://blog.acolyer.org/2016/04/25/delta-state-replicated-data-types/
+
+https://blog.acolyer.org/2019/03/11/efficient-synchronisation-of-state-based-crdts/
+
+https://blog.acolyer.org/2019/11/25/mergeable-replicated-data-types-part-i/ ?
+
+https://blog.acolyer.org/search/?q=CRDT
+
+https://blog.acolyer.org/2015/08/10/eventually-consistent-transactions/ ?
